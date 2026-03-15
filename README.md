@@ -1,1 +1,1 @@
-MDST-W26-<AI-In-Healthcare>
+MDST-W26-AI-In-Healthcare
